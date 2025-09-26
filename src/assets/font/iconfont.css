@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1758370652223') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-hanbaocaidan:before {
+  content: "\e661";
+}
+
+.icon-jingdian:before {
+  content: "\e88f";
+}
+
+.icon-huochepiao:before {
+  content: "\e89a";
+}
+
+.icon-jiudian:before {
+  content: "\e89b";
+}
+
+.icon-qichepiao:before {
+  content: "\e89d";
+}
+
+.icon-menpiao:before {
+  content: "\e60c";
+}
+
+.icon-lvyou:before {
+  content: "\e610";
+}
+
+.icon-chuanpiao:before {
+  content: "\e69d";
+}
+
+.icon-lvhang:before {
+  content: "\e60a";
+}
+
